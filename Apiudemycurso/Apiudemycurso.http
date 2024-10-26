@@ -1,0 +1,6 @@
+@Apiudemycurso_HostAddress = http://localhost:5213
+
+GET {{Apiudemycurso_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
